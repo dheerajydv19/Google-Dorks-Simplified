@@ -36,6 +36,8 @@ solemnly made for the purpose for helping beginners and creating cyber awareness
 
 [9. Faqs](#faq)
 
+###Disclamer
+This tutorials is for informational and educational purposes only. We believe that ethical hacking, information security and cyber security should be familiar subjects to anyone using digital information and computers. We believe that it is impossible to defend yourself from hackers without knowing how hacking is done.
 
 ## What are Google Dorks
 
@@ -65,12 +67,12 @@ Everyone uses google dorks for a differnet purpose. Below are some of the most c
 Google dorks can be used to find a variety of inforamion in many aspects but it mainly used to find the inforamion described below -
 
 - critical information of a website, company, organization, softwares
-- blogs, articlse, research papers, etc on a particular topic
+- blogs, articles, research papers, etc on a particular topic
 - leaked courses and ebooks
 - reviews about a company, it's product and about it's services
 - finding solutions of answers of textbook questions
 
-Apart from these, their exist many other kind of information which can be find vai google dorks very easily.
+Apart from these, their exist many other kind of information which can be find via google dorks very easily.
 
 ## How to use Google Dorks
 
