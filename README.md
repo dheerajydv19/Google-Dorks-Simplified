@@ -116,6 +116,9 @@ Also for the betterment of our users, we have shown examples of what and how you
 | filetype:xls inurl:"email.xls" | | used to find database of emails | 
 | intitle:"Index of" wp-admin | | used to find wordpress login page of random websites  | 
 
+If you want to know about some more google dorks used in cybersecurty, then we suggest you to explore Google Hacking Database.
+
+https://www.exploit-db.com/google-hacking-database
 
 ## How to safeguard informaion from Google Dorks
 You can take the following safety measures to protect your information from being disclosed by google dorks -
