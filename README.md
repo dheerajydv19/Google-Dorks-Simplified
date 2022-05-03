@@ -36,7 +36,7 @@ solemnly made for the purpose for helping beginners and creating cyber awareness
 
 [9. Faqs](#faq)
 
-###Disclamer
+### Disclamer
 This tutorials is for informational and educational purposes only. We believe that ethical hacking, information security and cyber security should be familiar subjects to anyone using digital information and computers. We believe that it is impossible to defend yourself from hackers without knowing how hacking is done.
 
 ## What are Google Dorks
