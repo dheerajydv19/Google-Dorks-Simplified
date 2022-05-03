@@ -18,23 +18,23 @@ solemnly made for the purpose for helping beginners and creating cyber awareness
 
 ## Documentation
 
-[1. What are Google Dorks ](what-are-google-dorks)
+[1. What are Google Dorks ](#what-are-google-dorks)
 
-[2. How Google Dorks works](how-google-dorks-works)
+[2. How Google Dorks works](#how-google-dorks-works)
 
-[3. Why we need Google Dorks](why-we-need-google-dorks)
+[3. Why we need Google Dorks](#why-we-need-google-dorks)
 
-[4. What can we find from Google Dorks](what-can-we-find-from-google-dorks)
+[4. What can we find from Google Dorks](#what-can-we-find-from-google-dorks)
 
-[5. How to use Google Dorks](how-to-use-google-dorks)
+[5. How to use Google Dorks](#how-to-use-google-dorks)
 
-[6. Collection of Most Useful Google Dorks](collection-of-most-useful-google-dorks)
+[6. Collection of Most Useful Google Dorks](#collection-of-most-useful-google-dorks)
 
-[7. Special Collection for Cybersecurity Learners](special-collection-for-cybersecurity-learners)
+[7. Special Collection for Cybersecurity Learners](#special-collection-for-cybersecurity-learners)
 
-[8. How to safeguard informaion from Google Dorks](how-to-safeguard-informaion-from-google-dorks)
+[8. How to safeguard informaion from Google Dorks](#how-to-safeguard-informaion-from-google-dorks)
 
-[9. Faqs](faq)
+[9. Faqs](#faq)
 
 
 ## What are Google Dorks
