@@ -81,7 +81,7 @@ While searching for any free ebook , once add fileype:pdf in your google search 
 For a better understanding, once try this by your own.
 
 #### Note -
-Also for the betterment of our users, in some complex google dorks, just click on the name of that google dork and a google search result page will be shown, just replae the queries in the searchbox of that link and you will get your desired search results.  
+Also for the betterment of our users, we have shown examples of what and how you should type search query in google.
 
 ## Collection of Most Useful Google Dorks
 
