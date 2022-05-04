@@ -39,19 +39,19 @@ solemnly made for the purpose for helping beginners and creating cyber awareness
 ### Disclamer
 This tutorials is for informational and educational purposes only. We believe that ethical hacking, information security and cyber security should be familiar subjects to anyone using digital information and computers. We believe that it is impossible to defend yourself from hackers without knowing how hacking is done.
 
-## What is Google Dorks?
+## What are Google Dorks
 
- Google Dorks, is also known as Google dorking or Google hacking.It is hacking technique which is  used to find the best desired search results without wasting time in exploring google for required information.
+ Google Dorks, also known as Google dorking or Google hacking is a hacking technique which is  used to find the best desired search results without wasting time in exploring google for required information.
 Normally, google dorks is used by researchers or hackers to find critical information about a company, individual, a software or app, a research topic or anything else.
 But a normal person can also use google dorks in many places and can save time and will definetely get better information.
 
-## How Google Dorks works?
+## How Google Dorks works
 
 As you all know, google crawls almost all websites and index almost everything available on that website including some sensitive information.
 That simply means google exposes too much information about websites including the technologies used, username, passwords, and some other general vulnerabilities.
 
-By using some simple techniques which we call google dorks, we can just exploring that sensitive inforamion.
-Apart from this, by using google dorks, we can also helps google to understand more about what search results we are expecting from google.
+By using some simple techniques which we call google dorks, we are just exploring that sensitive inforamion.
+Apart from this, by using google dorks, we can also help google to understand more about what search results we are expecting from google.
 
 ## Why we need google dorks?
 
