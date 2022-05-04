@@ -39,30 +39,30 @@ solemnly made for the purpose for helping beginners and creating cyber awareness
 ### Disclamer
 This tutorials is for informational and educational purposes only. We believe that ethical hacking, information security and cyber security should be familiar subjects to anyone using digital information and computers. We believe that it is impossible to defend yourself from hackers without knowing how hacking is done.
 
-## What are Google Dorks
+## What is Google Dorks?
 
-A Google Dorks, also known as Google dorking or Google hacking is hacking technique used to find the best desired search results without wasting time in exploring google for required information.
+ Google Dorks, is also known as Google dorking or Google hacking.It is hacking technique which is  used to find the best desired search results without wasting time in exploring google for required information.
 Normally, google dorks is used by researchers or hackers to find critical information about a company, individual, a software or app, a research topic or anything else.
 But a normal person can also use google dorks in many places and can save time and will definetely get better information.
 
-## How Google Dorks works
+## How Google Dorks works?
 
 As you all know, google crawls almost all websites and index almost everything available on that website including some sensitive information.
 That simply means google exposes too much information about websites including the technologies used, username, passwords, and some other general vulnerabilities.
 
-By using some simple techniques which we call google dorks, we are just exploring that sensitive inforamion.
-Apart from this, by using google dorks, we also helps google to understand more about what search results we are expecting from google.
+By using some simple techniques which we call google dorks, we can just exploring that sensitive inforamion.
+Apart from this, by using google dorks, we can also helps google to understand more about what search results we are expecting from google.
 
-## Why we need google dorks
+## Why we need google dorks?
 
 Everyone uses google dorks for a differnet purpose. Below are some of the most common reasons for using google dorks -
 
-- cybersecurity expers uses google dorks to find critical inforamion which get exposed by mistake or exposed by someone knowingly about anything so that they can later on hide or delete that so that no one can use that for any wrong purpose.
+- cybersecurity experts uses google dorks to find critical inforamion which get exposed by someone knowingly or unknowingly.But later it can Delted or Hidden that so that no one uses it for any  wrong purpose.
 - researcher, content writers, journalists ,etc uses google dorks to gather all the inforamion available on google about a particular topic so that they can use that inforamion for reaching their own goals.
-- students mainly uses google dorks to find answers of their textbook questions fastly or for finding leaked version of a course or a book in free.
+- students mainly uses google dorks to find answers to their questions which mayb be from textbook or asked the staff or for finding leaked version of a course or a book in free.
 - comapnies and their employes uses google dorks to gather inforamion about their competitors and for finding honest reveiws of thier products or services so that they can use that inforamion further for improving their products and services and which in results helps their company grow faster.
 
-## What can we find from Google Dorks
+## What can we find from Google Dorks?
 
 Google dorks can be used to find a variety of inforamion in many aspects but it mainly used to find the inforamion described below -
 
@@ -74,10 +74,10 @@ Google dorks can be used to find a variety of inforamion in many aspects but it 
 
 Apart from these, their exist many other kind of information which can be find via google dorks very easily.
 
-## How to use Google Dorks
+## How to use Google Dorks?
 
 Let's learn this by an example.
-While searching for any free ebook , once add fileype:pdf in your google search box along with book name and in results google will only shows you only those search results which have a pdf with same name as you typed in searchbox.
+While searching for any free ebook , once add filetype:pdf in your google search box along with book name and in results google will only shows you only those search results which have a pdf with same name as you typed in searchbox.
 For a better understanding, once try this by your own.
 
 #### Note -
@@ -120,7 +120,7 @@ If you want to know about some more google dorks used in cybersecurty, then we s
 
 https://www.exploit-db.com/google-hacking-database
 
-## How to safeguard informaion from Google Dorks
+## How to safeguard informaion from Google Dorks?
 You can take the following safety measures to protect your information from being disclosed by google dorks -
 
 - Protect pages that contains sensitive information via username and password.
@@ -136,21 +136,21 @@ You can take the following safety measures to protect your information from bein
 
 ## FAQ
 
-#### What is a search query
+#### What is a search query?
 
 anything that you type and search for in google is called google search query.
 
 #### Can i use more than one google dork in a single search result ?
 
-Absolutely yes , you can use any number of google dorks in a single google search.
+Absolutely yes , you can use n number of google dorks in a single google search.
 
 #### Does thier exist dorks for other search engines ?
 
-Yes, their exist dorks for yahoo,bing,github and for many other platforms too.
+Yes, their exist dorks for yahoo,bing,github and  many other platforms too.
 
 #### Can i use these google dorks on any other platform too like yahoo,gihtub,etc or not ?
 
-You can try but as we know every search engine has its unique algorith and shows resuls according to that, so it will be better to use dorks made espcially for that platform.
+You can try but as we know every search engine has its own unique algorithm and shows results according to that, so it is better to use dorks made espcially for that platform.
 
 #### Is using google dorks illegal ?
 NO, using google dork is legal but misusing the information gathered by google dorks for wrong purpose or for bad intentions is illegal.
