@@ -53,16 +53,16 @@ That simply means google exposes too much information about websites including t
 By using some simple techniques which we call google dorks, we are just exploring that sensitive inforamion.
 Apart from this, by using google dorks, we can also help google to understand more about what search results we are expecting from google.
 
-## Why we need google dorks?
+## Why we need google dorks
 
 Everyone uses google dorks for a differnet purpose. Below are some of the most common reasons for using google dorks -
 
-- cybersecurity experts uses google dorks to find critical inforamion which get exposed by someone knowingly or unknowingly.But later it can Delted or Hidden that so that no one uses it for any  wrong purpose.
+- cybersecurity experts uses google dorks to find critical inforamion which get exposed by mistake or exposed by someone knowingly about anything so that they can later on hide or delete that so that no one can use that for any wrong purpose.
 - researcher, content writers, journalists ,etc uses google dorks to gather all the inforamion available on google about a particular topic so that they can use that inforamion for reaching their own goals.
-- students mainly uses google dorks to find answers to their questions which mayb be from textbook or asked the staff or for finding leaked version of a course or a book in free.
-- comapnies and their employes uses google dorks to gather inforamion about their competitors and for finding honest reveiws of thier products or services so that they can use that inforamion further for improving their products and services and which in results helps their company grow faster.
+- students mainly uses google dorks to find answers to their questions which are from their textbook or asked by someone or for finding leaked version of a course or a book in free.
+- companies and their employes uses google dorks to gather inforamion about their competitors and for finding honest reveiws of thier products or services so that they can use that inforamion further for improving their products and services and which in results helps their company grow faster.
 
-## What can we find from Google Dorks?
+## What can we find from Google Dorks
 
 Google dorks can be used to find a variety of inforamion in many aspects but it mainly used to find the inforamion described below -
 
@@ -74,7 +74,7 @@ Google dorks can be used to find a variety of inforamion in many aspects but it 
 
 Apart from these, their exist many other kind of information which can be find via google dorks very easily.
 
-## How to use Google Dorks?
+## How to use Google Dorks
 
 Let's learn this by an example.
 While searching for any free ebook , once add filetype:pdf in your google search box along with book name and in results google will only shows you only those search results which have a pdf with same name as you typed in searchbox.
@@ -146,7 +146,7 @@ Absolutely yes , you can use n number of google dorks in a single google search.
 
 #### Does thier exist dorks for other search engines ?
 
-Yes, their exist dorks for yahoo,bing,github and  many other platforms too.
+Yes, their exist dorks for yahoo,bing,github and for many other platforms too.
 
 #### Can i use these google dorks on any other platform too like yahoo,gihtub,etc or not ?
 
