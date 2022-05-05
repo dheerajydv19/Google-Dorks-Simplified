@@ -1,6 +1,6 @@
 # Google Dorks Simplified
 
-A simple explanation of google dorks, it's uses and collection of best google dorks to get the best and desired information.
+A simple explanation of google dorks, its uses and collection of best google dorks to get the best and desired information.
 
 
 
@@ -13,7 +13,7 @@ A simple explanation of google dorks, it's uses and collection of best google do
 
 ## 🚀 About Us
 INFURIOUS CYBER COMMUNITY 
-solemnly made for the purpose for helping beginners and creating cyber awareness. 
+solemnly made for the purpose of helping beginners and creating cyber awareness. 
 
 
 ## Documentation
@@ -32,39 +32,39 @@ solemnly made for the purpose for helping beginners and creating cyber awareness
 
 [7. Special Collection for Cybersecurity Learners](#special-collection-for-cybersecurity-learners)
 
-[8. How to safeguard informaion from Google Dorks](#how-to-safeguard-informaion-from-google-dorks)
+[8. How to safeguard information from Google Dorks](#how-to-safeguard-information-from-google-dorks)
 
 [9. Faqs](#faq)
 
-### Disclamer
-This tutorials is for informational and educational purposes only. We believe that ethical hacking, information security and cyber security should be familiar subjects to anyone using digital information and computers. We believe that it is impossible to defend yourself from hackers without knowing how hacking is done.
+### Disclaimer
+This tutorial is for informational and educational purposes only. We believe that ethical hacking, information security and cyber security should be familiar subjects to anyone using digital information and computers. We believe that it is impossible to defend yourself from hackers without knowing how hacking is done.
 
 ## What are Google Dorks
 
  Google Dorks, also known as Google dorking or Google hacking is a hacking technique which is  used to find the best desired search results without wasting time in exploring google for required information.
 Normally, google dorks is used by researchers or hackers to find critical information about a company, individual, a software or app, a research topic or anything else.
-But a normal person can also use google dorks in many places and can save time and will definetely get better information.
+But a normal person can also use google dorks in many places and can save time and will definitely get better information.
 
 ## How Google Dorks works
 
-As you all know, google crawls almost all websites and index almost everything available on that website including some sensitive information.
+As you all know, Google crawls almost all websites and indexes almost everything available on that website including some sensitive information.
 That simply means google exposes too much information about websites including the technologies used, username, passwords, and some other general vulnerabilities.
 
-By using some simple techniques which we call google dorks, we are just exploring that sensitive inforamion.
+By using some simple techniques which we call google dorks, we are just exploring that sensitive information.
 Apart from this, by using google dorks, we can also help google to understand more about what search results we are expecting from google.
 
 ## Why we need google dorks
 
-Everyone uses google dorks for a differnet purpose. Below are some of the most common reasons for using google dorks -
+Everyone uses google dorks for a different purpose. Below are some of the most common reasons for using google dorks -
 
-- cybersecurity experts uses google dorks to find critical inforamion which get exposed by mistake or exposed by someone knowingly about anything so that they can later on hide or delete that so that no one can use that for any wrong purpose.
-- researcher, content writers, journalists ,etc uses google dorks to gather all the inforamion available on google about a particular topic so that they can use that inforamion for reaching their own goals.
-- students mainly uses google dorks to find answers to their questions which are from their textbook or asked by someone or for finding leaked version of a course or a book in free.
-- companies and their employes uses google dorks to gather inforamion about their competitors and for finding honest reveiws of thier products or services so that they can use that inforamion further for improving their products and services and which in results helps their company grow faster.
+- cybersecurity experts uses google dorks to find critical information which gets exposed by mistake or exposed by someone knowingly about anything so that they can later on hide or delete that so that no one can use that for any wrong purpose.
+- researchers, content writers, journalists ,etc uses google dorks to gather all the information available on google about a particular topic so that they can use that information for reaching their own goals.
+- students mainly uses google dorks to find answers to their questions which are from their textbook or asked by someone or for finding leaked versions of a course or a book for free.
+- companies and their employees uses google dorks to gather information about their competitors and for finding honest reviews of their products or services so that they can use that information further for improving their products and services and which in results helps their company grow faster.
 
 ## What can we find from Google Dorks
 
-Google dorks can be used to find a variety of inforamion in many aspects but it mainly used to find the inforamion described below -
+Google dorks can be used to find a variety of information in many aspects but it mainly used to find the information described below -
 
 - critical information of a website, company, organization, softwares
 - blogs, articles, research papers, etc on a particular topic
@@ -72,24 +72,24 @@ Google dorks can be used to find a variety of inforamion in many aspects but it 
 - reviews about a company, it's product and about it's services
 - finding solutions of answers of textbook questions
 
-Apart from these, their exist many other kind of information which can be find via google dorks very easily.
+Apart from these, there exist many other kinds of information which can be found via google dorks very easily.
 
 ## How to use Google Dorks
 
 Let's learn this by an example.
-While searching for any free ebook , once add filetype:pdf in your google search box along with book name and in results google will only shows you only those search results which have a pdf with same name as you typed in searchbox.
-For a better understanding, once try this by your own.
+While searching for any free ebook , once add filetype:pdf in your google search box along with book name and in results google will only show you only those search results which have a pdf with the same name as you typed in the search box.
+For a better understanding, once try this on your own.
 
 #### Note -
-Also for the betterment of our users, we have shown examples of what and how you should type search query in google.
+Also for the betterment of our users, we have shown examples of what and how you should type search queries in google.
 
 ## Collection of Most Useful Google Dorks
 
 | Google Dork |      | Used for               |Example |
 | :-------- | :------- | :------------------------- | ----------- |
-| "specified_phrase or statement" | | shows only those pages that contains exact word or statemetn |"Is hacking illegal" |
-| site: | |removes search resuls from all other websites except the mentioned one | site:amazon.com smartwatches  |
-| inurl:specified_phrase | | shows only those search results which contins the specified word in url | inurl:ethical hacking
+| "specified_phrase or statement" | | shows only those pages that contains exact word or statement |"Is hacking illegal" |
+| site: | |removes search results from all other websites except the mentioned one | site:amazon.com smartwatches  |
+| inurl:specified_phrase | | shows only those search results which contains the specified word in url | inurl:ethical hacking
 | inurl:word1 word2 | | shows search results that contain either of the word or both | inurl:hacking programming |
 | allinurl:word1 word2 | | shows the search results that contain both of the words | allinurl:hacking programming |
 | intitle:word1 word2 | | shows those search results that mention word in their title and mention the word “word” anywhere in the document | intitle:hacking networking  |
@@ -98,8 +98,8 @@ Also for the betterment of our users, we have shown examples of what and how you
 | allintext:word1 word2 | | only shows pages containing those words somewhere in the context | allintext:hacking networking |
 | intitle:”index of” | | shows open ftp servers | intitle:”index of spiderman movie” |
 | inurl:view/index.shtml | | shows live cameras that don’t have any protection | inurl:view/index.shtml |
-| filetype:pdf/doc/ppt specified_phrase | | shows only pages that contains the document of that type and contains specified word in file name | filetype:pdf ethical hacking |
-| + | | shows only those pages that must contain that specific word | ethical hacninng + free course |
+| filetype:pdf/doc/ppt specified_phrase | | shows only pages that contains the document of that type and contains specific word in file name | filetype:pdf ethical hacking |
+| + | | shows only those pages that must contain that specific word | ethical hacking + free course |
 | - | | avoid showing results that contain certain words | ethical hacking - paid course |
 
 ## Special Collection for Cybersecurity Learners
@@ -116,16 +116,16 @@ Also for the betterment of our users, we have shown examples of what and how you
 | filetype:xls inurl:"email.xls" | | used to find database of emails | 
 | intitle:"Index of" wp-admin | | used to find wordpress login page of random websites  | 
 
-If you want to know about some more google dorks used in cybersecurty, then we suggest you to explore Google Hacking Database.
+If you want to know about some more google dorks used in cybersecurity, then we suggest you explore Google Hacking Database.
 
 https://www.exploit-db.com/google-hacking-database
 
-## How to safeguard informaion from Google Dorks?
+## How to safeguard information from Google Dorks?
 You can take the following safety measures to protect your information from being disclosed by google dorks -
 
-- Protect pages that contains sensitive information via username and password.
+- Protect pages that contain sensitive information via username and password.
 - Run regular dork queries against your website to discover the sensitive information.
-- Request removal of sensitive inforamion if found via google search console
+- Request removal of sensitive information if found via google search console
   
   https://support.google.com/webmasters/answer/9689846?hl=en&visit_id=637871614748203924-38706967&rd=1
 
@@ -144,13 +144,13 @@ anything that you type and search for in google is called google search query.
 
 Absolutely yes , you can use n number of google dorks in a single google search.
 
-#### Does thier exist dorks for other search engines ?
+#### Does their exist dorks for other search engines ?
 
 Yes, their exist dorks for yahoo,bing,github and for many other platforms too.
 
-#### Can i use these google dorks on any other platform too like yahoo,gihtub,etc or not ?
+#### Can i use these google dorks on any other platform too like yahoo,gihhub,etc or not ?
 
-You can try but as we know every search engine has its own unique algorithm and shows results according to that, so it is better to use dorks made espcially for that platform.
+You can try but as we know every search engine has its own unique algorithm and shows results according to that, so it is better to use dorks made especially for that platform.
 
 #### Is using google dorks illegal ?
 NO, using google dork is legal but misusing the information gathered by google dorks for wrong purpose or for bad intentions is illegal.
