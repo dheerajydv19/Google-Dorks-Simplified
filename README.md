@@ -168,13 +168,13 @@ Official Mail -
 infurious.icc@gmail.com
 
 GitHub - 
-https://github.com/InfuriousICC
+[https://github.com/InfuriousICC](https://github.com/InfuriousICC)
 
 Twitter - 
-https://twitter.com/infurious_icc
+[https://twitter.com/infurious_icc](https://twitter.com/infurious_icc)
 
 Telegram - 
-https://t.me/infurious_icc
+[https://t.me/infurious_icc](https://t.me/infurious_icc)
 
 Instagram - 
-https://instagram.com/infurious_icc
+[https://instagram.com/infurious_icc](https://t.me/infurious_icc)
