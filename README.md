@@ -32,6 +32,8 @@ solemnly made for the purpose of helping beginners and creating cyber awareness.
 
 [7. Special Collection for Cybersecurity Learners](#special-collection-for-cybersecurity-learners)
 
+[8. Special Collection for bug bounty hunters](special-collection-for-bug-bounty-hunters)
+
 [8. How to safeguard information from Google Dorks](#how-to-safeguard-information-from-google-dorks)
 
 [9. Faqs](#faq)
@@ -119,6 +121,11 @@ Also for the betterment of our users, we have shown examples of what and how you
 If you want to know about some more google dorks used in cybersecurity, then we suggest you explore Google Hacking Database.
 
 https://www.exploit-db.com/google-hacking-database
+
+## Special Collection for Bug Bounty Hunters
+List of Google Dorks to search for companies that have a responsible disclosure program or bug bounty program which are not affiliated with known bug bounty platforms such as HackerOne or Bugcrowd.
+
+- [Click Here](https://github.com/InfuriousICC/Google-Dorks-Simplified/blob/main/bug%20bounty%20dorks)
 
 ## How to safeguard information from Google Dorks?
 You can take the following safety measures to protect your information from being disclosed by google dorks -
