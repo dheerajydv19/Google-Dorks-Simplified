@@ -32,7 +32,7 @@ solemnly made for the purpose of helping beginners and creating cyber awareness.
 
 [7. Special Collection for Cybersecurity Learners](#special-collection-for-cybersecurity-learners)
 
-[8. Special Collection for bug bounty hunters](special-collection-for-bug-bounty-hunters)
+[8. Special Collection for bug bounty hunters](#special-collection-for-bug-bounty-hunters)
 
 [9. How to safeguard information from Google Dorks](#how-to-safeguard-information-from-google-dorks)
 
