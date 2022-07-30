@@ -34,6 +34,8 @@ solemnly made for the purpose of helping beginners and creating cyber awareness.
 
 [8. Special Collection for bug bounty hunters](#special-collection-for-bug-bounty-hunters)
 
+[8. Special Collection for sql injection](#special-collection-for-sql-injection)
+
 [9. How to safeguard information from Google Dorks](#how-to-safeguard-information-from-google-dorks)
 
 [10. Faqs](#faq)
@@ -127,6 +129,11 @@ List of Google Dorks to search for companies that have a responsible disclosure 
 
 - [Click Here](https://github.com/InfuriousICC/Google-Dorks-Simplified/blob/main/bug%20bounty%20dorks)
 
+## Special Collection for Sql Injection
+Nice list of google dorks for SQL injection
+
+- [Click Here](https://github.com/InfuriousICC/Google-Dorks-Simplified/blob/main/google%20dorks%20for%20sql%20injection)
+
 ## How to safeguard information from Google Dorks?
 You can take the following safety measures to protect your information from being disclosed by google dorks -
 
@@ -165,7 +172,7 @@ NO, using google dork is legal but misusing the information gathered by google d
 ## Credits
 
 - [Bug Bounty Dorks Github Repo](https://github.com/sushiwushi/bug-bounty-dorks)
-
+- [Sql Injection Dorks list Github Repo](https://github.com/rootac355/SQL-injection-dorks-list)
 
 ## Contributions
 
