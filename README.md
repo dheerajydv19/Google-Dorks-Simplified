@@ -162,6 +162,10 @@ You can try but as we know every search engine has its own unique algorithm and 
 #### Is using google dorks illegal ?
 NO, using google dork is legal but misusing the information gathered by google dorks for wrong purpose or for bad intentions is illegal.
 
+## Credits
+
+- [Bug Bounty Dorks Github Repo](https://github.com/sushiwushi/bug-bounty-dorks)
+
 
 ## Contributions
 
