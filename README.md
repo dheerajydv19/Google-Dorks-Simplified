@@ -34,9 +34,9 @@ solemnly made for the purpose of helping beginners and creating cyber awareness.
 
 [8. Special Collection for bug bounty hunters](special-collection-for-bug-bounty-hunters)
 
-[8. How to safeguard information from Google Dorks](#how-to-safeguard-information-from-google-dorks)
+[9. How to safeguard information from Google Dorks](#how-to-safeguard-information-from-google-dorks)
 
-[9. Faqs](#faq)
+[10. Faqs](#faq)
 
 ### Disclaimer
 This tutorial is for informational and educational purposes only. We believe that ethical hacking, information security and cyber security should be familiar subjects to anyone using digital information and computers. We believe that it is impossible to defend yourself from hackers without knowing how hacking is done.
