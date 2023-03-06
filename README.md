@@ -6,8 +6,7 @@ A simple explanation of google dorks, its uses and collection of best google dor
 
 ## Authors
 
-- [@InfuriousICC](https://github.com/InfuriousICC)
-- [@dheerajydv19](https://www.github.com/dheerajydv19)
+- [@dheerajydv19](https://twitter.com/Dheerajydv19)
 
 
 
