@@ -2,18 +2,9 @@
 
 A simple explanation of google dorks, its uses and collection of best google dorks to get the best and desired information.
 
-
-
 ## Authors
 
 - [@dheerajydv19](https://twitter.com/Dheerajydv19)
-
-
-
-## 🚀 About Us
-INFURIOUS CYBER COMMUNITY 
-solemnly made for the purpose of helping beginners and creating cyber awareness. 
-
 
 ## Documentation
 
@@ -179,16 +170,18 @@ Contributions are always welcome!
 
 You can contact us any time on any of our social media platforms for any kind of suggestions and Contributions.
 
+Official Mail - dheerajyadavmandlana@gmail.com
+
+GitHub - [https://github.com/dheerajydv19](https://github.com/dheerajydv19)
+
+Twitter - [https://twitter.com/dheerajydv19](https://twitter.com/dheerajydv19)
+
+Telegram - [https://t.me/dheerajydv19](https://t.me/dheerajydv19)
+
+Instagram - [https://instagram.com/dheerajydv19](https://instagram.com/dheerajydv19)
+
 Developed with ❤️ in India 🇮🇳 
 
-Official Mail - 
-infurious.icc@gmail.com
-
-GitHub - 
-[https://github.com/InfuriousICC](https://github.com/InfuriousICC)
-
-Twitter - 
-[https://twitter.com/infurious_icc](https://twitter.com/infurious_icc)
 
 Telegram - 
 [https://t.me/infurious_icc](https://t.me/infurious_icc)
