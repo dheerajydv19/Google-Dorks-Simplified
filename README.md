@@ -182,9 +182,3 @@ Instagram - [https://instagram.com/dheerajydv19](https://instagram.com/dheerajyd
 
 Developed with ❤️ in India 🇮🇳 
 
-
-Telegram - 
-[https://t.me/infurious_icc](https://t.me/infurious_icc)
-
-Instagram - 
-[https://instagram.com/infurious_icc](https://t.me/infurious_icc)
