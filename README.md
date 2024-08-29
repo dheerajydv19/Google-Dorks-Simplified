@@ -3,7 +3,7 @@
 A simple explanation of google dorks, its uses and collection of best google dorks to get the best and desired information.
 
 ## Essential Osint Updates Delivered to Your Inbox
-Join our newsletter today - https://newsletter.osintambition.org/
+Join our newsletter today - https://osintupdates.com/
 
 ## Authors
 
