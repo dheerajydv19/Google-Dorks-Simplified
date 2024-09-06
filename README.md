@@ -5,6 +5,9 @@ A simple explanation of google dorks, its uses and collection of best google dor
 ## Essential Osint Updates Delivered to Your Inbox
 Join our newsletter today - https://osintupdates.com/
 
+## Best OSINT Tools Directory
+Checkout Next-gen OSINT tools directory - https://osinttools.io/
+
 ## Authors
 
 - [@dheerajydv19](https://twitter.com/Dheerajydv19)
