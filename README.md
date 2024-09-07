@@ -2,14 +2,14 @@
 
 A simple explanation of google dorks, its uses and collection of best google dorks to get the best and desired information.
 
-## SOme of our lovely products for OSINT loves -
-Free weekly OSINT Newsletter - osintupdates.com
+## Some of our useful products for OSINT loves -
+Free weekly OSINT Newsletter - [osintupdates.com](osintupdates.com)
 
-Learn OSINT from Experts - osintteam.com
+Learn OSINT from Experts - [osintteam.com](osintteam.com)
 
-Best OSINT Tools Directory - osinttools.io
+Best OSINT Tools Directory - [osinttools.io](osinttools.io)
 
-Free OSINT eBook's and Guides - osintambition.org
+Free OSINT eBook's and Guides - [osintambition.org](osinttools.io)
 
 
 
