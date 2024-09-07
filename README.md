@@ -4,8 +4,11 @@ A simple explanation of google dorks, its uses and collection of best google dor
 
 ## SOme of our lovely products for OSINT loves -
 Free weekly OSINT Newsletter - osintupdates.com
+
 Learn OSINT from Experts - osintteam.com
+
 Best OSINT Tools Directory - osinttools.io
+
 Free OSINT eBook's and Guides - osintambition.org
 
 
