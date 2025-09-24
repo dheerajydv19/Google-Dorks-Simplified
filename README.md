@@ -13,7 +13,6 @@ Free OSINT eBook's and Guides - [osintambition.org](https://osinttools.io)
 
 
 
-
 ## Authors
 
 - [@dheerajydv19](https://twitter.com/Dheerajydv19)
